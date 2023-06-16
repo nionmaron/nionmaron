@@ -1,4 +1,4 @@
-![Nion](nion.png)
+![Nion](nion2.png)
 
 # Welcome to My Data Science GitHub Repository!
 
