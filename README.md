@@ -1,10 +1,10 @@
 ![Nion](nion2.png)
 
-# Welcome to My Data Science GitHub Repository!
+# Welcome to My GitHub Repository!
 
 ## About Me
 
-Hello! Welcome to my Github repository. My name is Nion and I'm passionate about data. I am a proficient programmer with a solid background in R, Python, and data science as a whole. This is the place where I share my projects and showcase my skills in data modeling, data mining, algorithms, machine learning, prediction, statistics, business intelligence, dashboard reporting, and decision making.
+Hello!. My name is Nion and I'm passionate about data. I am a proficient programmer with a solid background in R, Python, and data science as a whole. This is the place where I share my projects and showcase my skills in data modeling, data mining, algorithms, machine learning, prediction, statistics, business intelligence, dashboard reporting, and decision making.
 
 ## Interests and Expertise
 My interest lies in understanding the power of data and leveraging it to extract valuable insights, make predictions, and drive decision making in a business context. I am highly skilled in:
